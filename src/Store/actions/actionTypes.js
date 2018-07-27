@@ -1,0 +1,15 @@
+
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const REMOVE_INGREDIENT = 'REMOVE_INGREDIENT';
+export const GET_INGREDIENT = 'GET_INGREDIENT';
+export const GET_INGREDIENT_FAILED = 'GET_INGREDIENT_FAILED';
+
+export const ORDER_SUCCESS = 'ORDER_SUCCESS';
+export const ORDER_FAIL = 'ORDER_FAIL';
+export const ORDER_SPINNER = 'ORDER_SPINNER';
+export const ORDER_INIT =   'ORDER_INIT';
+
+export const AUTH_SPINNER = 'AUTH_SPINNER';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
